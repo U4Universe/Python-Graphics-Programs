@@ -1,6 +1,8 @@
+#program to draw a circle's design 
 import turtle
 import random
 
+#turtle functions
 t = turtle.Turtle()
 s= turtle.Screen().bgcolor("#17202A")
 t.speed(300)
